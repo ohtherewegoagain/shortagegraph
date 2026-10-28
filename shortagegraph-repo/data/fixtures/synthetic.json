@@ -1,0 +1,1316 @@
+{
+ "products": [
+  {
+   "ndc": "77572-0000-0",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "DOXORUBICIN"
+   ],
+   "form": "SOLUTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "91082-0001-0",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "PIPERACILLIN",
+    "PROPOFOL"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "79134-0001-1",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "PIPERACILLIN",
+    "PROPOFOL"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "48817-0002-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "KETAMINE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "47650-0003-0",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "CISPLATIN"
+   ],
+   "form": "TABLET",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "85641-0004-0",
+   "labeler": "LAB_005",
+   "ingredients": [
+    "LEVOTHYROXINE",
+    "ONDANSETRON"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "08076-0004-1",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "LEVOTHYROXINE",
+    "ONDANSETRON"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "99086-0004-2",
+   "labeler": "LAB_003",
+   "ingredients": [
+    "LEVOTHYROXINE",
+    "ONDANSETRON"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "18895-0005-0",
+   "labeler": "LAB_010",
+   "ingredients": [
+    "DOXORUBICIN"
+   ],
+   "form": "SOLUTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "49600-0006-0",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "AMIKACIN"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "37652-0006-1",
+   "labeler": "LAB_013",
+   "ingredients": [
+    "AMIKACIN"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "91959-0006-2",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "AMIKACIN"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "55719-0007-0",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "AMOXICILLIN"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "06168-0008-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "SODIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "60475-0008-1",
+   "labeler": "LAB_006",
+   "ingredients": [
+    "SODIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "96911-0008-2",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "SODIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "44159-0009-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "METFORMIN"
+   ],
+   "form": "TABLET",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "09285-0010-0",
+   "labeler": "LAB_006",
+   "ingredients": [
+    "DOXORUBICIN"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "31720-0010-1",
+   "labeler": "LAB_013",
+   "ingredients": [
+    "DOXORUBICIN"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "11331-0010-2",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "DOXORUBICIN"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "58579-0011-0",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "METFORMIN"
+   ],
+   "form": "TABLET",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "12886-0011-1",
+   "labeler": "LAB_003",
+   "ingredients": [
+    "METFORMIN"
+   ],
+   "form": "TABLET",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "14237-0012-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "HEPARIN"
+   ],
+   "form": "SOLUTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "41984-0013-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "INSULIN ASPART",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "67377-0013-1",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "INSULIN ASPART",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "55429-0013-2",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "INSULIN ASPART",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "28657-0014-0",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "AMIKACIN",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "82964-0014-1",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "AMIKACIN",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "71016-0014-2",
+   "labeler": "LAB_003",
+   "ingredients": [
+    "AMIKACIN",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "16187-0015-0",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "HEPARIN"
+   ],
+   "form": "CAPSULE",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "17097-0016-0",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "AMOXICILLIN"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "71404-0016-1",
+   "labeler": "LAB_010",
+   "ingredients": [
+    "AMOXICILLIN"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "07840-0016-2",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "AMOXICILLIN"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "93228-0017-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "DEXAMETHASONE",
+    "HEPARIN"
+   ],
+   "form": "SOLUTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "27062-0017-1",
+   "labeler": "LAB_000",
+   "ingredients": [
+    "DEXAMETHASONE",
+    "HEPARIN"
+   ],
+   "form": "SOLUTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "31517-0018-0",
+   "labeler": "LAB_006",
+   "ingredients": [
+    "VANCOMYCIN"
+   ],
+   "form": "INJECTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "85824-0018-1",
+   "labeler": "LAB_003",
+   "ingredients": [
+    "VANCOMYCIN"
+   ],
+   "form": "INJECTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "87175-0019-0",
+   "labeler": "LAB_013",
+   "ingredients": [
+    "PIPERACILLIN"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "41482-0019-1",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "PIPERACILLIN"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "29534-0019-2",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "PIPERACILLIN"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "14922-0020-0",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "CISPLATIN",
+    "LEVOTHYROXINE"
+   ],
+   "form": "INJECTION",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "69229-0020-1",
+   "labeler": "LAB_013",
+   "ingredients": [
+    "CISPLATIN",
+    "LEVOTHYROXINE"
+   ],
+   "form": "INJECTION",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "28367-0020-2",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "CISPLATIN",
+    "LEVOTHYROXINE"
+   ],
+   "form": "INJECTION",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "52913-0021-0",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "AMOXICILLIN",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "29922-0021-1",
+   "labeler": "LAB_003",
+   "ingredients": [
+    "AMOXICILLIN",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "66358-0021-2",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "AMOXICILLIN",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "18039-0022-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "CISPLATIN",
+    "MORPHINE"
+   ],
+   "form": "TABLET",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "90035-0023-0",
+   "labeler": "LAB_006",
+   "ingredients": [
+    "SODIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "22991-0024-0",
+   "labeler": "LAB_007",
+   "ingredients": [
+    "MEROPENEM"
+   ],
+   "form": "CAPSULE",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "83684-0025-0",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "MORPHINE",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "37991-0025-1",
+   "labeler": "LAB_013",
+   "ingredients": [
+    "MORPHINE",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "37411-0026-0",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "FENTANYL"
+   ],
+   "form": "SOLUTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "80037-0026-1",
+   "labeler": "LAB_005",
+   "ingredients": [
+    "FENTANYL"
+   ],
+   "form": "SOLUTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "34344-0026-2",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "FENTANYL"
+   ],
+   "form": "SOLUTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "24941-0027-0",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "MEROPENEM"
+   ],
+   "form": "CAPSULE",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "56168-0027-1",
+   "labeler": "LAB_006",
+   "ingredients": [
+    "MEROPENEM"
+   ],
+   "form": "CAPSULE",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "90002-0027-2",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "MEROPENEM"
+   ],
+   "form": "CAPSULE",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "25851-0028-0",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "MORPHINE"
+   ],
+   "form": "SOLUTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "81509-0029-0",
+   "labeler": "LAB_007",
+   "ingredients": [
+    "LEVOTHYROXINE",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "40271-0030-0",
+   "labeler": "LAB_003",
+   "ingredients": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "74105-0030-1",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "42413-0030-2",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "27801-0031-0",
+   "labeler": "LAB_007",
+   "ingredients": [
+    "DEXAMETHASONE",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "50236-0031-1",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "DEXAMETHASONE",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "26634-0032-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "KETAMINE"
+   ],
+   "form": "INJECTION",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "84369-0033-0",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "38676-0033-1",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "88411-0034-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "MEROPENEM"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "94334-0034-1",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "MEROPENEM"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "30770-0034-2",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "MEROPENEM"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "98789-0035-0",
+   "labeler": "LAB_010",
+   "ingredients": [
+    "CEFEPIME"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "53096-0035-1",
+   "labeler": "LAB_000",
+   "ingredients": [
+    "CEFEPIME"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "86319-0036-0",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "MEROPENEM",
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "INJECTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "92438-0037-0",
+   "labeler": "LAB_010",
+   "ingredients": [
+    "HEPARIN"
+   ],
+   "form": "SOLUTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "91271-0038-0",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "MEROPENEM"
+   ],
+   "form": "TABLET",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "56397-0039-0",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "FENTANYL"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "92833-0039-1",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "FENTANYL"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "98756-0039-2",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "FENTANYL"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "57307-0040-0",
+   "labeler": "LAB_001",
+   "ingredients": [
+    "FENTANYL",
+    "HEPARIN"
+   ],
+   "form": "SOLUTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "11614-0040-1",
+   "labeler": "LAB_009",
+   "ingredients": [
+    "FENTANYL",
+    "HEPARIN"
+   ],
+   "form": "SOLUTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "44837-0041-0",
+   "labeler": "LAB_006",
+   "ingredients": [
+    "CISPLATIN",
+    "FENTANYL"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "67272-0041-1",
+   "labeler": "LAB_000",
+   "ingredients": [
+    "CISPLATIN",
+    "FENTANYL"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "03708-0041-2",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "CISPLATIN",
+    "FENTANYL"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "50956-0042-0",
+   "labeler": "LAB_011",
+   "ingredients": [
+    "AMIKACIN"
+   ],
+   "form": "SOLUTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "05263-0042-1",
+   "labeler": "LAB_000",
+   "ingredients": [
+    "AMIKACIN"
+   ],
+   "form": "SOLUTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "59257-0043-0",
+   "labeler": "LAB_010",
+   "ingredients": [
+    "PIPERACILLIN"
+   ],
+   "form": "CAPSULE",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "65376-0044-0",
+   "labeler": "LAB_000",
+   "ingredients": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "19683-0044-1",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "07735-0044-2",
+   "labeler": "LAB_010",
+   "ingredients": [
+    "POTASSIUM CHLORIDE"
+   ],
+   "form": "CAPSULE",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "64209-0045-0",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "PIPERACILLIN"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "18516-0045-1",
+   "labeler": "LAB_013",
+   "ingredients": [
+    "PIPERACILLIN"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "06568-0045-2",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "PIPERACILLIN"
+   ],
+   "form": "TABLET",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "97165-0046-0",
+   "labeler": "LAB_006",
+   "ingredients": [
+    "LEVOTHYROXINE"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "74174-0046-1",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "LEVOTHYROXINE"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "62226-0046-2",
+   "labeler": "LAB_008",
+   "ingredients": [
+    "LEVOTHYROXINE"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "67326-0047-0",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "ONDANSETRON"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "95073-0048-0",
+   "labeler": "LAB_003",
+   "ingredients": [
+    "DOXORUBICIN"
+   ],
+   "form": "TABLET",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "23894-0049-0",
+   "labeler": "LAB_009",
+   "ingredients": [
+    "VANCOMYCIN"
+   ],
+   "form": "TABLET",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "78201-0049-1",
+   "labeler": "LAB_007",
+   "ingredients": [
+    "VANCOMYCIN"
+   ],
+   "form": "TABLET",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "14637-0049-2",
+   "labeler": "LAB_000",
+   "ingredients": [
+    "VANCOMYCIN"
+   ],
+   "form": "TABLET",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "00025-0050-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "CISPLATIN",
+    "HEPARIN"
+   ],
+   "form": "INJECTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "65151-0051-0",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "FENTANYL"
+   ],
+   "form": "SOLUTION",
+   "route": "INTRAVENOUS"
+  },
+  {
+   "ndc": "66061-0052-0",
+   "labeler": "LAB_005",
+   "ingredients": [
+    "AMOXICILLIN",
+    "VANCOMYCIN"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "53591-0053-0",
+   "labeler": "LAB_003",
+   "ingredients": [
+    "VANCOMYCIN"
+   ],
+   "form": "SOLUTION",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "59710-0054-0",
+   "labeler": "LAB_005",
+   "ingredients": [
+    "CEFEPIME",
+    "ONDANSETRON"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "68011-0055-0",
+   "labeler": "LAB_004",
+   "ingredients": [
+    "MORPHINE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "27149-0055-1",
+   "labeler": "LAB_012",
+   "ingredients": [
+    "MORPHINE"
+   ],
+   "form": "INJECTION",
+   "route": "ORAL"
+  },
+  {
+   "ndc": "28704-0056-0",
+   "labeler": "LAB_009",
+   "ingredients": [
+    "INSULIN ASPART",
+    "KETAMINE"
+   ],
+   "form": "SOLUTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "51139-0056-1",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "INSULIN ASPART",
+    "KETAMINE"
+   ],
+   "form": "SOLUTION",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "04835-0057-0",
+   "labeler": "LAB_002",
+   "ingredients": [
+    "DEXAMETHASONE"
+   ],
+   "form": "SOLUTION",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "92887-0057-1",
+   "labeler": "LAB_005",
+   "ingredients": [
+    "DEXAMETHASONE"
+   ],
+   "form": "SOLUTION",
+   "route": "SUBCUTANEOUS"
+  },
+  {
+   "ndc": "60493-0058-0",
+   "labeler": "LAB_000",
+   "ingredients": [
+    "CEFEPIME"
+   ],
+   "form": "CAPSULE",
+   "route": "TOPICAL"
+  },
+  {
+   "ndc": "66612-0059-0",
+   "labeler": "LAB_013",
+   "ingredients": [
+    "LEVOTHYROXINE"
+   ],
+   "form": "TABLET",
+   "route": "TOPICAL"
+  }
+ ],
+ "establishments": {
+  "FEI0000000": {
+   "name": "PLANT 0",
+   "country": "IN"
+  },
+  "FEI0000001": {
+   "name": "PLANT 1",
+   "country": "US"
+  },
+  "FEI0000002": {
+   "name": "PLANT 2",
+   "country": "US"
+  },
+  "FEI0000003": {
+   "name": "PLANT 3",
+   "country": "US"
+  },
+  "FEI0000004": {
+   "name": "PLANT 4",
+   "country": "US"
+  },
+  "FEI0000005": {
+   "name": "PLANT 5",
+   "country": "IN"
+  },
+  "FEI0000006": {
+   "name": "PLANT 6",
+   "country": "US"
+  },
+  "FEI0000007": {
+   "name": "PLANT 7",
+   "country": "US"
+  },
+  "FEI0000008": {
+   "name": "PLANT 8",
+   "country": "US"
+  },
+  "FEI0000009": {
+   "name": "PLANT 9",
+   "country": "US"
+  },
+  "FEI0000010": {
+   "name": "PLANT 10",
+   "country": "IN"
+  },
+  "FEI0000011": {
+   "name": "PLANT 11",
+   "country": "US"
+  },
+  "FEI0000012": {
+   "name": "PLANT 12",
+   "country": "US"
+  },
+  "FEI0000013": {
+   "name": "PLANT 13",
+   "country": "US"
+  },
+  "FEI0000014": {
+   "name": "PLANT 14",
+   "country": "US"
+  },
+  "FEI0000015": {
+   "name": "PLANT 15",
+   "country": "IN"
+  },
+  "FEI0000016": {
+   "name": "PLANT 16",
+   "country": "US"
+  },
+  "FEI0000017": {
+   "name": "PLANT 17",
+   "country": "US"
+  }
+ },
+ "letters": [
+  {
+   "date": "2021-06-24",
+   "fei": "FEI0000015",
+   "firm": "PLANT 15"
+  },
+  {
+   "date": "2024-07-02",
+   "fei": "FEI0000006",
+   "firm": "PLANT 6"
+  },
+  {
+   "date": "2019-05-07",
+   "fei": "FEI0000011",
+   "firm": "PLANT 11"
+  },
+  {
+   "date": "2021-06-20",
+   "fei": "FEI0000008",
+   "firm": "PLANT 8"
+  },
+  {
+   "date": "2024-06-09",
+   "fei": "FEI0000007",
+   "firm": "PLANT 7"
+  },
+  {
+   "date": "2020-02-16",
+   "fei": "FEI0000003",
+   "firm": "PLANT 3"
+  }
+ ],
+ "shortages": [
+  {
+   "key": "PIPERACILLIN+PROPOFOL|INJECTION|TOPICAL",
+   "date": "2021-12-20"
+  },
+  {
+   "key": "LEVOTHYROXINE+ONDANSETRON|CAPSULE|TOPICAL",
+   "date": "2024-08-11"
+  },
+  {
+   "key": "DOXORUBICIN|INJECTION|TOPICAL",
+   "date": "2021-07-29"
+  },
+  {
+   "key": "METFORMIN|TABLET|INTRAVENOUS",
+   "date": "2019-06-11"
+  },
+  {
+   "key": "INSULIN ASPART+POTASSIUM CHLORIDE|INJECTION|ORAL",
+   "date": "2019-07-23"
+  },
+  {
+   "key": "DEXAMETHASONE+HEPARIN|SOLUTION|INTRAVENOUS",
+   "date": "2021-08-12"
+  },
+  {
+   "key": "VANCOMYCIN|INJECTION|INTRAVENOUS",
+   "date": "2024-09-08"
+  },
+  {
+   "key": "CISPLATIN+LEVOTHYROXINE|INJECTION|SUBCUTANEOUS",
+   "date": "2024-09-01"
+  },
+  {
+   "key": "AMOXICILLIN+POTASSIUM CHLORIDE|TABLET|SUBCUTANEOUS",
+   "date": "2024-10-22"
+  },
+  {
+   "key": "CISPLATIN+MORPHINE|TABLET|SUBCUTANEOUS",
+   "date": "2024-08-25"
+  },
+  {
+   "key": "FENTANYL|SOLUTION|ORAL",
+   "date": "2021-11-15"
+  },
+  {
+   "key": "DEXAMETHASONE+POTASSIUM CHLORIDE|CAPSULE|ORAL",
+   "date": "2025-03-31"
+  },
+  {
+   "key": "MEROPENEM|TABLET|TOPICAL",
+   "date": "2024-08-04"
+  },
+  {
+   "key": "CEFEPIME|INJECTION|TOPICAL",
+   "date": "2024-09-22"
+  },
+  {
+   "key": "HEPARIN|SOLUTION|TOPICAL",
+   "date": "2022-03-14"
+  },
+  {
+   "key": "FENTANYL|INJECTION|ORAL",
+   "date": "2023-11-06"
+  },
+  {
+   "key": "CISPLATIN+FENTANYL|CAPSULE|ORAL",
+   "date": "2021-09-02"
+  },
+  {
+   "key": "LEVOTHYROXINE|TABLET|TOPICAL",
+   "date": "2022-07-25"
+  },
+  {
+   "key": "FENTANYL|SOLUTION|INTRAVENOUS",
+   "date": "2024-10-01"
+  },
+  {
+   "key": "CEFEPIME+ONDANSETRON|TABLET|TOPICAL",
+   "date": "2019-07-30"
+  },
+  {
+   "key": "MORPHINE|INJECTION|ORAL",
+   "date": "2024-09-29"
+  }
+ ],
+ "recalls": [
+  {
+   "date": "2018-08-13",
+   "class": "Class II"
+  },
+  {
+   "date": "2022-08-11",
+   "class": "Class III"
+  },
+  {
+   "date": "2018-11-19",
+   "class": "Class II"
+  },
+  {
+   "date": "2018-08-27",
+   "class": "Class II"
+  },
+  {
+   "date": "2022-02-27",
+   "class": "Class I"
+  },
+  {
+   "date": "2018-08-13",
+   "class": "Class III"
+  },
+  {
+   "date": "2024-08-11",
+   "class": "Class II"
+  },
+  {
+   "date": "2018-07-23",
+   "class": "Class I"
+  },
+  {
+   "date": "2018-03-05",
+   "class": "Class I"
+  },
+  {
+   "date": "2018-12-10",
+   "class": "Class III"
+  },
+  {
+   "date": "2018-02-05",
+   "class": "Class I"
+  },
+  {
+   "date": "2018-06-11",
+   "class": "Class II"
+  },
+  {
+   "date": "2018-03-26",
+   "class": "Class III"
+  },
+  {
+   "date": "2018-08-27",
+   "class": "Class I"
+  },
+  {
+   "date": "2018-09-03",
+   "class": "Class III"
+  },
+  {
+   "date": "2018-04-16",
+   "class": "Class II"
+  }
+ ],
+ "note": "SYNTHETIC FIXTURE - for pipeline tests only, never for paper results"
+}

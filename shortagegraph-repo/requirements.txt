@@ -1,0 +1,9 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+scikit-learn>=1.4
+torch>=2.2
+pytest>=8.0
+# optional: XGBoost is used when present, otherwise sklearn's histogram
+# gradient boosting is substituted automatically (see baselines.py)
+# xgboost>=2.0
